@@ -1,0 +1,6 @@
+./train_data/us-001_page_0.png,52,269,555,569,table
+./train_data/us-001_page_2.png,52,95,555,255,table
+./train_data/us-002_page_0.png,74,211,537,640,table
+./train_data/us-002_page_2.png,74,122,536,597,table
+./train_data/us-003_page_0.png,77,299,504,368,table
+./train_data/us-004_page_1.png,74,233,523,425,table
