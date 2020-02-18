@@ -3,6 +3,7 @@
 These are two Object Detection models to detect table areas in an image or a PDF*. 
 
 *note: if the input is PDF format, you need to use 'pdf_to_img.py' to convert your PDF to image first. 
+
 <br><br>
 The two models are: Faster-RCNN (in 'frcnn' folder) and YOLO_v3 (in 'yolo' folder) 
 - The FRCNN model is developed based on two references: https://github.com/jinfagang/keras_frcnn and https://github.com/kbardool/keras-frcnn
