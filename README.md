@@ -21,11 +21,11 @@ The outputs of the models include:
 <br><br>
 The datasets used to train the models include:
 - ICDAR 2013 Table Completion Dataset (http://www.tamirhassan.com/html/competition.html). 
- - The dataset is the format of pdf and with ground truth of table boundaries. The dataset is converted from pdf format to image format with 'pdf_to_img.py'
+  - The dataset is the format of pdf and with ground truth of table boundaries. The dataset is converted from pdf format to image format with 'pdf_to_img.py'
 - PaleoDocs.
- - The dataset can be downloaded at: https://github.com/HazyResearch/pdftotree (in section: 'Example Dataset: Paleontological Papers'). The dataset is converted from pdf format to image format with 'pdf_to_img.py'
+  - The dataset can be downloaded at: https://github.com/HazyResearch/pdftotree (in section: 'Example Dataset: Paleontological Papers'). The dataset is converted from pdf format to image format with 'pdf_to_img.py'
 - UNLV Dataset.
- - The dataset can be downloaded at: http://www.iapr-tc11.org/mediawiki/index.php?title=Table_Ground_Truth_for_the_UW3_and_UNLV_datasets
+  - The dataset can be downloaded at: http://www.iapr-tc11.org/mediawiki/index.php?title=Table_Ground_Truth_for_the_UW3_and_UNLV_datasets
 
 <br><br>
 To train the models, training data should be put in the 'train_data' folder and the ground truth should be saved in the 'ground_truth.txt' with the format shown in the file. The test data should be put in the 'test_data' folder. 
